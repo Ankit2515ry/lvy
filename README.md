@@ -1,9 +1,9 @@
 # Ivy Homes — Bengaluru Property Intelligence Portal
 
-**Candidate:** Ankit Kumar (`ankit2515ry@gmail.com`)  
+**Candidate:** Ankit Kumar  
 **Assignment:** Software Engineering Internship, September 2026  
-**City:** Bangalore | **Assigned Locality:** Indiranagar | **API Key:** `IVY26-FE18EBA7C387`  
-**Live Demo:** [https://ivy-property-portal.vercel.app](https://lvy-ya0n.onrender.com/) *(Deployable to Vercel/Netlify)*  
+**City:** Bangalore | **Assigned Locality:** Indiranagar  
+**Live Demo:** [https://ivy.app](https://lvy-ya0n.onrender.com/)  
 **Repository:** [https://github.com/Ankit2515ry/lvy](https://github.com/Ankit2515ry/lvy)
 
 ---
