@@ -4,7 +4,7 @@
 **Assignment:** Software Engineering Internship, September 2026  
 **City:** Bangalore | **Assigned Locality:** Indiranagar | **API Key:** `IVY26-FE18EBA7C387`  
 **Live Demo:** [https://ivy-property-portal.vercel.app](https://ivy-property-portal.vercel.app) *(Deployable to Vercel/Netlify)*  
-**Repository:** [https://github.com/Ankit2515ry/ivy-assignment](https://github.com/Ankit2515ry/ivy-assignment)
+**Repository:** [https://github.com/Ankit2515ry/lvy](https://github.com/Ankit2515ry/lvy)
 
 ---
 
